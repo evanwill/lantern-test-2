@@ -59,8 +59,6 @@ editor:
 cover: true # requires a cover.png file within the images folder
 
 download:
-  - format: PDF
-    link: textbook.pdf
   - format: EPUB
     link: textbook.epub
   - format: DOCX
