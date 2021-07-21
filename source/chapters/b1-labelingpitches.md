@@ -26,7 +26,7 @@ Scale degree | Solfege syllable | Raised | Lowered
 
 ### Accidentals
 
-This course assumes that you have a basic knowledge of how to raise and lower pitches in standard music notation. If you need to review proper usage of accidentals, please refer to the *Further Reading* section under [Discussion 1b]({{ site.baseurl }}/01-pitches-clefs//b2-labelingpitches.html).
+This course assumes that you have a basic knowledge of how to raise and lower pitches in standard music notation. If you need to review proper usage of accidentals, please refer to the *Further Reading* section under [Discussion 1b](01-pitches-clefs//b2-labelingpitches.html).
 
 ## Enharmonic Equivalence and Pitch Classes
 

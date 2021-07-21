@@ -160,19 +160,19 @@ Conveniently, there is a lot of repetition of interval size and quality among wh
 
 All of the seconds are *major* except for two: E-F, and B-C, which are *minor*.
 
-<img src="{{ site.baseurl }}/images/intervals/wnm-seconds.png">
+<img src="images/intervals/wnm-seconds.png">
 
 All of the thirds are *minor* except for three: C-E, F-A, and G-B, which are *major*.
 
-<img src="{{ site.baseurl }}/images/intervals/wnm-thirds.png">
+<img src="images/intervals/wnm-thirds.png">
 
 All of the fourths are *perfect* except for one: F-B, which is *augmented*.
 
-<img src="{{ site.baseurl }}/images/intervals/wnm-fourths.png">
+<img src="images/intervals/wnm-fourths.png">
 
 Believe it or not, you now know *all* of the white-key intervals, as long as you understand the concept of *interval inversion*. For example, if you know that all seconds are major except for E-F and B-C (which are minor), then you know that all *sevenths* are minor except for F-E and C-B (which are major).
 
-<img src="{{ site.baseurl }}/images/intervals/wnm-sevenths.png">
+<img src="images/intervals/wnm-sevenths.png">
 
 Once you've mastered the white-key intervals, you can figure out any other interval by adjusting the size accordingly. 
 
@@ -217,8 +217,8 @@ All other *harmonic* intervals are *dissonant*, and must be employed in very spe
 - All sevenths
 - Perfect fourths
 
-[c4e4]: {{ site.baseurl }}/images/intervals/C4E4.png 
-[thirds]: {{ site.baseurl }}/images/intervals/thirds.png
-[compound]: {{ site.baseurl }}/images/intervals/compound.png
-[inversion]: {{ site.baseurl }}/images/intervals/inversion.png
-[intervalChart]: {{ site.baseurl }}/images/intervals/intervalTable.png
+[c4e4]: images/intervals/C4E4.png 
+[thirds]: images/intervals/thirds.png
+[compound]: images/intervals/compound.png
+[inversion]: images/intervals/inversion.png
+[intervalChart]: images/intervals/intervalTable.png

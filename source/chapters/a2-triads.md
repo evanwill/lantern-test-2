@@ -94,10 +94,10 @@ When all the members of the triad are as close to the bass note as they can be, 
 
 Each triad quality has its own distinct sound, and to an extent that sound is preserved even when the chord is *inverted* (when the pitch classes are arranged so that a pitch class other than the root is in the lowest voice). As you practice identifying and writing triads, be sure to play the triads, both to check your analysis/writing and to develop the ability to identify chord qualities quickly by ear.
 
-[circleOfSteps-triad]: {{ site.baseurl }}/images/triadsSeventhChords/circleOfSteps-triad.png
-[circleOfThirds-triad]: {{ site.baseurl }}/images/triadsSeventhChords/circleOfThirds-triad.svg
-[circleOfThirds-triadRTF]: {{ site.baseurl }}/images/triadsSeventhChords/circleOfThirds-triadRTF.svg
-[triads]: {{ site.baseurl }}/images/triadsSeventhChords/triads.png
+[circleOfSteps-triad]: images/triadsSeventhChords/circleOfSteps-triad.png
+[circleOfThirds-triad]: images/triadsSeventhChords/circleOfThirds-triad.svg
+[circleOfThirds-triadRTF]: images/triadsSeventhChords/circleOfThirds-triadRTF.svg
+[triads]: images/triadsSeventhChords/triads.png
 
 ### Inversions
 Both bass lines and root progressions are important for the study and mastery of tonal harmony. Most of our work will focus on the bass lines, and what follows will help you analyze the root progressions present in any figured bass line. In other words, this will help you perform a Roman numeral analysis of a figured bass line. 
@@ -136,10 +136,10 @@ Chords of the sixth that take the figure 6/4/2 (or its abbreviation 4/2 or simpl
 ![][42chords]
 
 
-[53chords]: {{ site.baseurl }}/images/Inversions/5-3chords.png
-[63chords]: {{ site.baseurl }}/images/Inversions/6-3chords.png
-[65chords]: {{ site.baseurl }}/images/Inversions/6-5chords.png
-[7chords]: {{ site.baseurl }}/images/Inversions/7chords.png
-[64chords]: {{ site.baseurl }}/images/Inversions/6-4chords.png
-[43chords]: {{ site.baseurl }}/images/Inversions/4-3chords.png
-[42chords]: {{ site.baseurl }}/images/Inversions/4-2chords.png
+[53chords]: images/Inversions/5-3chords.png
+[63chords]: images/Inversions/6-3chords.png
+[65chords]: images/Inversions/6-5chords.png
+[7chords]: images/Inversions/7chords.png
+[64chords]: images/Inversions/6-4chords.png
+[43chords]: images/Inversions/4-3chords.png
+[42chords]: images/Inversions/4-2chords.png

@@ -55,8 +55,8 @@ or
 
 
 
-[parallel]: {{ site.baseurl }}/images/intervals/parallel.png
-[similar]: {{ site.baseurl }}/images/intervals/similar.png
-[contrary]: {{ site.baseurl }}/images/intervals/contrary.png
-[oblique1]: {{ site.baseurl }}/images/intervals/oblique1.png
-[oblique2]: {{ site.baseurl }}/images/intervals/oblique2.png
+[parallel]: images/intervals/parallel.png
+[similar]: images/intervals/similar.png
+[contrary]: images/intervals/contrary.png
+[oblique1]: images/intervals/oblique1.png
+[oblique2]: images/intervals/oblique2.png

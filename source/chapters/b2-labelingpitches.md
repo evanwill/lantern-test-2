@@ -30,7 +30,7 @@ We will follow the International Standards Organization (ISO) system for registe
 
 Here is the pitch C4 placed on the treble, bass, alto, and tenor clefs.
 
-<img src="{{ site.baseurl }}/images/clefs.png" width="50%" height="50%">
+<img src="images/clefs.png" width="50%" height="50%">
 
 The tricky bit about this system is that the octave starts on C and ends on B. So an ascending scale from middle C contains the following pitch designations: 
 
@@ -46,13 +46,13 @@ Pitches on the alto staff are as follows:
 
 Pitches on the tenor staff are as follows:
 
-<a href="{{ site.baseurl }}/images/pitchesTenor.png"><img src="{{ site.baseurl }}/images/pitchesTenor.png" width="70%"></a>
+<a href="images/pitchesTenor.png"><img src="images/pitchesTenor.png" width="70%"></a>
 
 Any accidentals follow the octave designation of the natural pitch with the same generic name. Thus a half step below C4 is C-flat4 (even though it sounds the same as B3), and a half step above C4 is C-sharp4. 
 
 Note that a complete designation contains both the pitch-class name (a letter name plus an optional sharp or flat) and the register (the ISO number indicating the octave in which the pitch is found). Unless both are present, you do not have the full designation of a specific pitch.
 
-[C4toC5]: {{ site.baseurl }}/images/C4toC5.png
-[C4toC3]: {{ site.baseurl }}/images/C4toC3.png
-[F3toG4]: {{ site.baseurl }}/images/F3toG4-alto.png
-[keyboard]: {{ site.baseurl }}/images/keyboardlayout-small.png
+[C4toC5]: images/C4toC5.png
+[C4toC3]: images/C4toC3.png
+[F3toG4]: images/F3toG4-alto.png
+[keyboard]: images/keyboardlayout-small.png

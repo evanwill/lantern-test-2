@@ -4,7 +4,7 @@ title: Lesson 4a - Simple Meters
 abc: true
 ---
 
-This text assumes that you are already familiar with the basics of rhythmic notation, so we will be skipping most of the basic rhythmic terminology. If you would like to learn about these terms (or review), I have included some materials from *Open Music Theory* in the [Further Reading]({{ site.baseurl }}/04-intro-rhythm/a2-simplemeter.html).
+This text assumes that you are already familiar with the basics of rhythmic notation, so we will be skipping most of the basic rhythmic terminology. If you would like to learn about these terms (or review), I have included some materials from *Open Music Theory* in the [Further Reading](04-intro-rhythm/a2-simplemeter.html).
 
 ## Rhythmic review
 

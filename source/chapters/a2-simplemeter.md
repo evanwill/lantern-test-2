@@ -65,13 +65,13 @@ title: Discussion 4a - Simple Meters
 
 Rhythm refers to the combination of long and short durations in time. Durations are notated with either unfilled or filled noteheads. Unfilled noteheads can appear with or without a stem; filled noteheads always appear with a stem. Flags can be added to the stems of filled noteheads; each flag shortens the duration by half. 
 
-<img src="{{ site.baseurl }}/images/durations.png" width="60%">
+<img src="images/durations.png" width="60%">
 
 ### Rests
 
 Rests represent silence in musical notation. For each durational symbol there exists a corresponding rest. 
 
-<img src="{{ site.baseurl }}/images/rests.png" width="60%">
+<img src="images/rests.png" width="60%">
 
 ### Dots and ties
 
@@ -79,13 +79,13 @@ Dots and ties allow for basic durations to be lengthened. A dot occurs after a p
 
 Multiple dots can be added to a duration. Subsequent dots add half the duration of the previous dot. For example, a quarter note with two dots would be equivalent in duration to a quarter, eighth, and sixteenth note. 
 
-<a href="{{ site.baseurl }}/images/dots.png"><img src="{{ site.baseurl }}/images/dots.png" width="50%"></a>
+<a href="images/dots.png"><img src="images/dots.png" width="50%"></a>
 
 A *tie* lengthens a duration by connecting two adjacent identical pitches. Ties are used to either sustain a pitch beyond the length of a single measure, or to make a particular rhythmic grouping in a measure more clear. 
 
 In the example below, the duration of the first pitch is longer than a single measure, so it is represented by tying the dotted half note, which lasts the full measure, to the first beat of the subsequent measure. 
 
-<a href="{{ site.baseurl }}/images/ties.png"><img src="{{ site.baseurl }}/images/ties.png" width="50%"></a>
+<a href="images/ties.png"><img src="images/ties.png" width="50%"></a>
 
 ### Meters
 
@@ -117,11 +117,11 @@ It's important to remember that notation is intended to be read by performers. Y
 
 In this example, the eighth notes are not grouped with beams, making it difficult to interpret the triple meter. 
 
-<a href="{{ site.baseurl }}/images/withoutbeams.png"><img src="{{ site.baseurl }}/images/withoutbeams.png" width="70%"></a>
+<a href="images/withoutbeams.png"><img src="images/withoutbeams.png" width="70%"></a>
 
 If we re-notate the above example so that the notes that fall within the same beat are grouped together with a beam, it makes the music much easier to read. 
 
-<a href="{{ site.baseurl }}/images/beams.png"><img src="{{ site.baseurl }}/images/beams.png" width="70%"></a>
+<a href="images/beams.png"><img src="images/beams.png" width="70%"></a>
 
 ### Borrowed divisions ###
 
@@ -129,11 +129,11 @@ Typically, a meter is defined by the presence of a consistent beat division: div
 
 *Triplets* are borrowed from compound meter, and may occur at both the beat division and subdivision levels, as seen below.
 
-<a href="{{ site.baseurl }}/images/triplets.png"><img src ="{{ site.baseurl }}/images/triplets.png" width="70%"></a>
+<a href="images/triplets.png"><img src ="images/triplets.png" width="70%"></a>
 
 Likewise, *duplets* can be imported from simple meter into a compound meter.
 
-<a href="{{ site.baseurl }}/images/duplets.png"><img src="{{ site.baseurl }}/images/duplets.png" width="70%"></a>
+<a href="images/duplets.png"><img src="images/duplets.png" width="70%"></a>
 
 ## Hearing meter
 

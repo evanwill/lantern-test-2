@@ -153,8 +153,8 @@ Pedals are *approached by static motion and left by static motion*; essentially,
 It is uncommon, but you will occasionally encounter an unaccented non-chord tone that is approached by leap and left in the *same* direction; resembling an appoggiatura but not resolving in the opposite direction. For this course, we will label these as *incomplete neighbor tones*, although some theorists use this term to refer to appoggiaturas and escape tones as well. Broadly speaking, you should not resort to an incomplete neighbor tone NCT unless you have exhausted all other options, because it is far more likely for this shape is part of a chordal skip rather than an NCT.
 
 
-[INT]: {{ site.baseurl }}/images/embellishingTones/INT.png
-[appoggiatura]: {{ site.baseurl }}/images/embellishingTones/appoggiatura.png
-[escape]: {{ site.baseurl }}/images/embellishingTones/escapeTone.png
-[anticipation]: {{ site.baseurl }}/images/embellishingTones/anticipation.png
-[syncopation]: {{ site.baseurl }}/images/embellishingTones/syncopatedNote.png
+[INT]: images/embellishingTones/INT.png
+[appoggiatura]: images/embellishingTones/appoggiatura.png
+[escape]: images/embellishingTones/escapeTone.png
+[anticipation]: images/embellishingTones/anticipation.png
+[syncopation]: images/embellishingTones/syncopatedNote.png

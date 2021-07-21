@@ -92,16 +92,16 @@ As you started, you hopefully realized that you had to make some important choic
     - For the excerpt below, you have little room for decision making, but for a larger melody, try singing the phrase repeatedly and listen to your natural inclination for breaths or pauses. 
     - It can also be helpful to look for spots in which the rhythm slows naturally.
 - **Choose a cadence** to complete your phrase.
-    - Refer to [Unit 8a]({{ site.baseurl }}/08-cadences-phrasing/a1-cadences.html) to review the types of cadences.
+    - Refer to [Unit 8a](08-cadences-phrasing/a1-cadences.html) to review the types of cadences.
 - **Create the rest of the diatonic progression** beginning on tonic and ending with your cadence. (If not already provided.)
-    - Beginning on tonic will establish your key center. Refer to [Unit 6b]({{ site.baseurl }}/06-intro-harmonic/b1-diafuncvoicelead.html) for a review of the three primary harmonic functions: tonic, dominant, and pre-dominant.
-    - Refer to [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html) to determine a functional harmonic progression.
+    - Beginning on tonic will establish your key center. Refer to [Unit 6b](06-intro-harmonic/b1-diafuncvoicelead.html) for a review of the three primary harmonic functions: tonic, dominant, and pre-dominant.
+    - Refer to [Unit 7a](07-harmonic-functions/a1-diaprogcirclefifths.html) to determine a functional harmonic progression.
 - **Compose a bass line** based on your harmonization.
-    - This will resemble 1:1 counterpoint, so you can refer to [Unit 5b]({{ site.baseurl }}/05-counterpoint-embell-shapes/b1-cantfirmand1st.html).
+    - This will resemble 1:1 counterpoint, so you can refer to [Unit 5b](05-counterpoint-embell-shapes/b1-cantfirmand1st.html).
     - It is okay for the bass line to be more disjunct than the other voices, so feel free to leave your chords in root position to make doubling simpler. 
     - You can alter one or more of these once you begin looking at how it interacts with your melody. Contrary motion against the soprano line is less likely to create issues.
 - **Fill in the alto and tenor voices.**
-    - Refer to the guidelines for voicing, range, and doubling in [Unit 10a]({{ site.baseurl }}/10-intro-harmonic/a1-voiceleadingerrors.html).
+    - Refer to the guidelines for voicing, range, and doubling in [Unit 10a](10-intro-harmonic/a1-voiceleadingerrors.html).
 - When writing your parts, always **strive to have voice-leading that is as smooth as possible** by emphasizing stepwise motion.
     - As mentioned above, bass lines are the exception and will often have more leaps, especially when using root-position chords.
 - **Check your work** 
@@ -117,7 +117,7 @@ As you move the list above, you should realize that a four note melody such as t
 
 To keep this simple, let's choose a perfect authentic cadence. This locks in the bass line for our last two notes, because we know that a PAC has a root position V and I chords at the end of the phrase. It is hopefully clear that the first pitch should start on the tonic chord to establish the key in our ear, which leaves only the second chord undetermined.
 
-Because the chord that *follows* our undetermined chord is a dominant chord, it makes sense to use a pre-dominant chord, and the `A` in the melody would allow for either a ii chord or a IV chord. (If you are struggling to remember the standard diatonic chord progressions, please refer to Refer to [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html).)Let's choose an inverted ii chord to provide some variety.
+Because the chord that *follows* our undetermined chord is a dominant chord, it makes sense to use a pre-dominant chord, and the `A` in the melody would allow for either a ii chord or a IV chord. (If you are struggling to remember the standard diatonic chord progressions, please refer to Refer to [Unit 7a](07-harmonic-functions/a1-diaprogcirclefifths.html).)Let's choose an inverted ii chord to provide some variety.
 
 {% capture ex3 %}X:3
 T:A first attempt at part-writing

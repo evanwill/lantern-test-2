@@ -175,11 +175,11 @@ In the following video, I illustrate the process of composing a second-species c
 
 <iframe src="http://player.vimeo.com/video/57085974" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br/><br/>
 
-[passing]: {{ site.baseurl }}/images/embellishingTones/passingTone.png 
-[neighbor]: {{ site.baseurl }}/images/embellishingTones/neighborTone.png
-[INT]: {{ site.baseurl }}/images/embellishingTones/INT.png
-[appoggiatura]: {{ site.baseurl }}/images/embellishingTones/appoggiatura.png
-[escape]: {{ site.baseurl }}/images/embellishingTones/escapeTone.png
-[anticipation]: {{ site.baseurl }}/images/embellishingTones/anticipation.png
-[suspension]: {{ site.baseurl }}/images/embellishingTones/suspension.png
-[retardation]: {{ site.baseurl }}/images/embellishingTones/retardation.png
+[passing]: images/embellishingTones/passingTone.png 
+[neighbor]: images/embellishingTones/neighborTone.png
+[INT]: images/embellishingTones/INT.png
+[appoggiatura]: images/embellishingTones/appoggiatura.png
+[escape]: images/embellishingTones/escapeTone.png
+[anticipation]: images/embellishingTones/anticipation.png
+[suspension]: images/embellishingTones/suspension.png
+[retardation]: images/embellishingTones/retardation.png

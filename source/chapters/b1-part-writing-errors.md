@@ -30,7 +30,7 @@ In short, focus on the *process* of the part-writing rather than trying to memor
 
 ## Traditional errors
 
-In the last [topic]({{ site.baseurl }}/10-intro-harmonic/a1-voiceleadingerrors.html), we first looked at some basic rules for voicing a chord in a four-part chorale style. These rules included:
+In the last [topic](10-intro-harmonic/a1-voiceleadingerrors.html), we first looked at some basic rules for voicing a chord in a four-part chorale style. These rules included:
 - Voice-crossing
     - In this style, voices generally should not cross
     - Exception: alto and tenor may cross briefly if musically necessary

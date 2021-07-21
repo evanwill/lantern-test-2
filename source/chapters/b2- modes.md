@@ -30,4 +30,4 @@ The chromatic scale consists entirely of half steps, and uses every pitch on the
 
 ![The chromatic scale][chromaticscale]
 
-[chromaticscale]: {{ site.baseurl }}/images/chromaticscale.png
+[chromaticscale]: images/chromaticscale.png

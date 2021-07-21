@@ -68,7 +68,7 @@ One of the most difficult issues to tackle in harmonic analysis is determining *
 - Which pitches could be removed without changing the basic effect?
 - Which pitches are added solely to provide variety?
 
-**Analyze the following embellished first phrase of the Old Hundredth Psalm. Which notes are not necessary for the harmonic function? How would you describe their motion? If you are struggling to determine whether it belongs or not, try referring to your the harmonic outline that you built in the previous topic [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html). Does the voice-leading--i.e. how each chordal member resolves--work with the rules that you established in Unit 7a if you do not have a non-chord tone?**
+**Analyze the following embellished first phrase of the Old Hundredth Psalm. Which notes are not necessary for the harmonic function? How would you describe their motion? If you are struggling to determine whether it belongs or not, try referring to your the harmonic outline that you built in the previous topic [Unit 7a](07-harmonic-functions/a1-diaprogcirclefifths.html). Does the voice-leading--i.e. how each chordal member resolves--work with the rules that you established in Unit 7a if you do not have a non-chord tone?**
 
 {% capture ex2 %}X:2
 T:Embellished first phrase of Old Hundredth Psalm

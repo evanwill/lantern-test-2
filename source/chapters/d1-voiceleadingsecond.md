@@ -98,7 +98,7 @@ As with all tertiary function chords, it is helpful to label a chord when it is 
 
 ## Passing 6/4s
 
-Passing chords are the second alternate function for second-inversion chords, and they function identically to our description of how [first- and third-inversion chords are used as passing chords]({{ site.baseurl }}/11-further-part-writing/b1-voiceleading1stand3rdinv.html)--a chord inserted between two other chords to create a bass line with stepwise motion. As before, *passing* is a function that replaces a chord's primary function, and instead extends the function of the chords on either side. Harmonize the following example of a passing 6/4.
+Passing chords are the second alternate function for second-inversion chords, and they function identically to our description of how [first- and third-inversion chords are used as passing chords](11-further-part-writing/b1-voiceleading1stand3rdinv.html)--a chord inserted between two other chords to create a bass line with stepwise motion. As before, *passing* is a function that replaces a chord's primary function, and instead extends the function of the chords on either side. Harmonize the following example of a passing 6/4.
 
 {% capture ex2 %}X:2
 T:Passing 6/4 chords
@@ -114,11 +114,11 @@ w:C:I V ii6/4 V6 I{% endcapture %}
 
 ### Conclusions
 
-Understanding that the ii chord in this example acts as a passing chord rather than a pre-dominant chord also explains how a V chord moves convincingly to a ii chord. When a chord resolves against the normal flow of a circle-of-fifths flowchart (see [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html)), we call that a *regression*. In the example above, the first V chord *should* resolve to a tonic chord but instead regresses to a ii chord. This works because of the strength of the bass line, so it is the *passing function* that extends the dominant harmony through a stepwise bass line.**
+Understanding that the ii chord in this example acts as a passing chord rather than a pre-dominant chord also explains how a V chord moves convincingly to a ii chord. When a chord resolves against the normal flow of a circle-of-fifths flowchart (see [Unit 7a](07-harmonic-functions/a1-diaprogcirclefifths.html)), we call that a *regression*. In the example above, the first V chord *should* resolve to a tonic chord but instead regresses to a ii chord. This works because of the strength of the bass line, so it is the *passing function* that extends the dominant harmony through a stepwise bass line.**
 
 ## Function over form (Part 4)
 
-Now that we have practiced using a passing 6/4 chord, we can also clarify why vii<sup>o6</sup> chords function well as a passing chord. When studying first inversion chords [Unit 11b]]({{ site.baseurl }}/11-further-part-writing/b1-voiceleading1stand3rdinv.html), we discussed two important ideas regarding vii<sup>o</sup> chords:
+Now that we have practiced using a passing 6/4 chord, we can also clarify why vii<sup>o6</sup> chords function well as a passing chord. When studying first inversion chords [Unit 11b]](11-further-part-writing/b1-voiceleading1stand3rdinv.html), we discussed two important ideas regarding vii<sup>o</sup> chords:
 - The vii<sup>o</sup> is a functional substitution for the V<sup>7</sup> chord and therefore takes its voice-leading and doubling conventions from the V<sup>7</sup> chord.
 - The vii<sup>o6</sup> is often employed as a passing chord between I and I<sup>6</sup> to create a bass line with stepwise motion.
 

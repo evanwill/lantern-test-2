@@ -17,7 +17,7 @@ A good musician could perform this bass line, and with an eye (or ear) on the vo
 
 As this technique grew, publishers began publishing thoroughbass reductions of large-ensemble pieces to support smaller groups of musicians. In these publications, *figures* (numbers above or below the bass line) were included—sometimes only for difficult or non-standard chords, and eventually for most chords, enabling more amateur musicians, as well as students, to make use of the technique. These bass lines with figures became known as "figured bass" lines.
 
-[![]({{ site.baseurl }}/images/Bach1033.png)]({{ site.baseurl }}/images/Bach1033.png)
+[![](images/Bach1033.png)](images/Bach1033.png)
 
 *J.S. Bach, Flute Sonata in C Major, ii., BWV 1033. The upper part is played by the flute, the lower part is the* basso continuo *line, played by a keyboardist who uses the numbers below the staff (figures) to guide the chords played above this bass line.*
 
@@ -102,6 +102,6 @@ Keep in mind that some chords have abbreviated figures. For example, it is commo
 
 
 [triadsSevenths]: triads.html
-[full]: {{ site.baseurl }}/images/harmony/figuresFull.png
-[abbrev]: {{ site.baseurl }}/images/harmony/figuresAbbrev.png
-[chrom]: {{ site.baseurl }}/images/harmony/figuresChrom.png
+[full]: images/harmony/figuresFull.png
+[abbrev]: images/harmony/figuresAbbrev.png
+[chrom]: images/harmony/figuresChrom.png

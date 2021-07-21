@@ -165,7 +165,7 @@ w:C:I V6 vi iii6 IV I6 IV V{% endcapture %}
 
 #### Seventh chords following the circle-of-fifths
 
-While any sequence that establishes a pattern and has clear voice-leading can function, there are common sequences that many composers have relied upon. We discussed the first of these in [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html) when exploring how voice-leading led to the standard circle-of-fifths progression. Now that we understand the structure of sequences, how would you describe this sequence?
+While any sequence that establishes a pattern and has clear voice-leading can function, there are common sequences that many composers have relied upon. We discussed the first of these in [Unit 7a](07-harmonic-functions/a1-diaprogcirclefifths.html) when exploring how voice-leading led to the standard circle-of-fifths progression. Now that we understand the structure of sequences, how would you describe this sequence?
 
 {% capture ex7 %}X:7
 T:Circle of fifths sequence of triads

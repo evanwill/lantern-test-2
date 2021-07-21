@@ -186,4 +186,4 @@ Understanding the difference between the terms *root* and *bass* is the last pie
 
 Combining a knowledge of inversions and voicings is critical in correctly identifying chord qualities. Teachers often suggest to students that they can find chord qualities by putting a chord in root position, but a chord in root position can be spread across multiple staves and still difficult to parse. We really mean that they should put the chord in root position *and* closed voicing. This allows the student to look at the interval qualities and determine the quality of the triad based on their knowledge of triadic interval structures.
 
-I also suggest that you look at the method for identifying triads from the *Open Music Theory*. You can find this listed under the [Further Reading]({{ site.baseurl }}/03-triads-7chords-leadsheet//a2-triads.html) for this topic.
+I also suggest that you look at the method for identifying triads from the *Open Music Theory*. You can find this listed under the [Further Reading](03-triads-7chords-leadsheet//a2-triads.html) for this topic.

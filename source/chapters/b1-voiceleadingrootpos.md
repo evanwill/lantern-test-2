@@ -10,7 +10,7 @@ Before beginning, please remember that when composing in this style, you occasio
 
 ## Reviewing our part-writing process
 
-In [Unit 11a]({{ site.baseurl }}/11-further-part-writing/a1-funds-of-part-writing.html), we outlined a method for harmonizing a melody:
+In [Unit 11a](11-further-part-writing/a1-funds-of-part-writing.html), we outlined a method for harmonizing a melody:
 1. Identify the key
 2. Determine your phrase
 3. Choose a cadence to complete your phrase.
@@ -30,7 +30,7 @@ And we employed the stylistic guidelines that we studied in Unit 10 to act as th
 - resolve tendency tones correctly
 - avoid unacceptable part-writing such as parallel perfect 5ths/8ves, contrary perfect 5ths/8ves, similar 5ths/8ves, and unequal 5ths
 
-Remember that circle-of-fifths progressions work because the voice-leading taps into the primary functions of diatonic harmony. If you review [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html), you will remember that we created the harmonic flow chart by simply following good voice-leading between chords that have roots separated by a descending P5/ascending P4. Admittedly, long strings of root-position chords create unmelodic bass lines, but they still represent the strongest voicing for many sonorities. 
+Remember that circle-of-fifths progressions work because the voice-leading taps into the primary functions of diatonic harmony. If you review [Unit 7a](07-harmonic-functions/a1-diaprogcirclefifths.html), you will remember that we created the harmonic flow chart by simply following good voice-leading between chords that have roots separated by a descending P5/ascending P4. Admittedly, long strings of root-position chords create unmelodic bass lines, but they still represent the strongest voicing for many sonorities. 
 
 ## Getting started
 
@@ -271,16 +271,16 @@ As a review, here are our finalized methods for part-writing in a four-part chor
     - In a short excerpt such as many of your assignments, you will have little room for decision making, but for a larger melody, try singing the phrase repeatedly and listen to your natural inclination for breaths or pauses. 
     - It can also be helpful to look for spots in which the rhythm slows naturally.
 - **Choose a cadence** to complete your phrase.
-    - Refer to [Unit 7c]({{ site.baseurl }}/07-harmonic-functions/c1-cadences.html) to review the types of cadences.
+    - Refer to [Unit 7c](07-harmonic-functions/c1-cadences.html) to review the types of cadences.
 - **Create the rest of the diatonic progression** beginning on tonic and ending with your cadence. (If not already provided.)
-    - This will establish your key center. Refer to [Unit 6b]({{ site.baseurl }}/06-intro-harmonic/b1-diafuncvoicelead.html) for a review of the three primary harmonic functions: tonic, dominant, and pre-dominant.
-    - Refer to [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html) to determine a functional harmonic progression.
+    - This will establish your key center. Refer to [Unit 6b](06-intro-harmonic/b1-diafuncvoicelead.html) for a review of the three primary harmonic functions: tonic, dominant, and pre-dominant.
+    - Refer to [Unit 7a](07-harmonic-functions/a1-diaprogcirclefifths.html) to determine a functional harmonic progression.
 - **Compose a bass line** based on your harmonization.
-    - This will resemble 1:1 counterpoint, so refer to [Unit 5b]({{ site.baseurl }}/05-counterpoint-embell-shapes/b1-cantfirmand1st.html).
+    - This will resemble 1:1 counterpoint, so refer to [Unit 5b](05-counterpoint-embell-shapes/b1-cantfirmand1st.html).
     - It is okay for the bass line to be more disjunct than the other voices, so feel free to leave your chords in root position to make doubling simpler.
     - Contrary motion against the soprano line is preferred.
 - **Fill in the alto and tenor voices.**
-    - Refer to the rules for voicing, range, and doubling in [Unit 6c]({{ site.baseurl }}/06-intro-harmonic/c1-voiceleadingerrors.html).
+    - Refer to the rules for voicing, range, and doubling in [Unit 6c](06-intro-harmonic/c1-voiceleadingerrors.html).
 - When writing your parts, always **strive to have voice-leading that is as smooth as possible** by emphasizing stepwise motion.
     - As mentioned above, bass lines are the exception and will often have more leaps, especially when using root-position chords.
 
@@ -290,17 +290,17 @@ As a review, here are our finalized methods for part-writing in a four-part chor
     - Even though you have been given the key in this case, make sure to follow the guidelines for this mode (i.e. major or minor). 
 - **Determine your phrases via cadences**
     - In longer examples, you will need to identify your cadences before moving to the next step. You can look for spots in which the harmonic rhythm slows naturally.
-    - Refer to [Unit 7c]({{ site.baseurl }}/07-harmonic-functions/c1-cadences.html) to review the types of cadences.
+    - Refer to [Unit 7c](07-harmonic-functions/c1-cadences.html) to review the types of cadences.
 - **Write a simple melody (soprano line)** 
     - Use mostly stepwise motion.
     - A good phrase will have an overall arc (upward or downward) with only one climax. 
     - Leaps of a fourth or more should resolve by stepwise motion in the opposite direction.
 - **If the harmony does not give you a predetermined bass line, compose a bass line.**
-    - This will resemble 1:1 counterpoint, so refer to [Unit 5b]({{ site.baseurl }}/05-counterpoint-embell-shapes/b1-cantfirmand1st.html).
+    - This will resemble 1:1 counterpoint, so refer to [Unit 5b](05-counterpoint-embell-shapes/b1-cantfirmand1st.html).
     - It is okay for the bass line to be more disjunct than the other voices, so feel free to leave your chords in root position to make doubling simpler.
     - Contrary motion against the soprano line is preferred.
 - **Fill in the alto and tenor voices.**
-    - Refer to the rules for voicing, range, and doubling in [Unit 6c]({{ site.baseurl }}/06-intro-harmonic/c1-voiceleadingerrors.html).
+    - Refer to the rules for voicing, range, and doubling in [Unit 6c](06-intro-harmonic/c1-voiceleadingerrors.html).
 - When writing your parts, always **strive to have voice-leading that is as smooth as possible** by emphasizing stepwise motion.
     - As mentioned above, bass lines are the exception and will often have more leaps, especially when using root-position chords.
 

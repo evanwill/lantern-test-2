@@ -76,7 +76,7 @@ This means that any interval that has the same two letters, regardless of accide
 
 ### Interval quality
 
-In the Western music notation system, interval *quality* is difficult to examine without beginning to think about our concept of tonality and keys, because it is designed to describe tonal intervals. It is easiest to understand *qualities* of intervals by comparing them to the major scale, so we will look at that below. If you do not yet feel comfortable with scales, however, you may look at the [Further Reading]({{ site.baseurl }}/02-int-scales-keys/a2-intervals.html) of this topic to find a useful method from the writers of *Open Music Theory*.
+In the Western music notation system, interval *quality* is difficult to examine without beginning to think about our concept of tonality and keys, because it is designed to describe tonal intervals. It is easiest to understand *qualities* of intervals by comparing them to the major scale, so we will look at that below. If you do not yet feel comfortable with scales, however, you may look at the [Further Reading](02-int-scales-keys/a2-intervals.html) of this topic to find a useful method from the writers of *Open Music Theory*.
 
 The most common and straightforward method for learning interval *quality* compares the interval to a major scale:
 

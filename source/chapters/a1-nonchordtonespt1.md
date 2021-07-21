@@ -174,7 +174,7 @@ Regardless of whether you include the pitch as functional, the NCTs must always 
 
 As we first begin to study non-chord tones, the most important thing to remember is what the name "non-chord tone" emphasizes. **NCTs must not belong to the chord.** This is one of the most common mistakes for beginning analysts.
 
-[passing]: {{ site.baseurl }}/images/embellishingTones/passingTone.png 
-[neighbor]: {{ site.baseurl }}/images/embellishingTones/neighborTone.png
-[suspension]: {{ site.baseurl }}/images/embellishingTones/suspension.png
-[retardation]: {{ site.baseurl }}/images/embellishingTones/retardation.png
+[passing]: images/embellishingTones/passingTone.png 
+[neighbor]: images/embellishingTones/neighborTone.png
+[suspension]: images/embellishingTones/suspension.png
+[retardation]: images/embellishingTones/retardation.png
